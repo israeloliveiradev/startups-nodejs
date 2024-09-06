@@ -91,15 +91,15 @@ startups-nodejs/
 
 4. O servidor estará rodando em `http://localhost:3000`
 
+![Swagger](https://i.imgur.com/w0jyVfb.gif)
 
-![Swagger](https://i.imgur.com/THOuzO2.png)
 
 ## Acessando a Documentação Swagger
 
 1. Com o servidor rodando, abra seu navegador
 2. Acesse `http://localhost:3000/api-docs`
 3. Você verá a interface do Swagger UI com todas as rotas disponíveis
-
+![Swagger](https://i.imgur.com/THOuzO2.png)
 
 
 ## Usando a API
