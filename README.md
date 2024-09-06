@@ -34,7 +34,7 @@ startups-nodejs/
 
 ## Pré-requisitos
 
-- Docker e Docker Compose (recomendado)
+- Docker 
 - Node.js (para desenvolvimento local sem Docker)
 - Chave de API do Google Gemini
 
