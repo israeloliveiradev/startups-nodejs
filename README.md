@@ -18,13 +18,18 @@ Startups-NodeJS é uma aplicação Node.js desenvolvida como parte de um teste t
 startups-nodejs/
 │
 ├── src/
-│   └── app.js
+│   ├── app.js
+│   └── services/
+│       └── googleGenerativeAIService.js
 │
-├── .env
+├── .gitignore
 ├── Dockerfile
 ├── docker-compose.yml
 ├── package.json
-└── README.md
+├── package-lock.json
+├── README.md
+├── swagger-output.json
+└── swagger.js
 ```
 
 ## Pré-requisitos
