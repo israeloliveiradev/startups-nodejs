@@ -64,8 +64,7 @@ startups-nodejs/
 
 4. O servidor estará rodando em `http://localhost:3000`
 
-[GIF_INSTALACAO_DOCKER]
-(Adicione aqui um GIF mostrando o processo de instalação e execução usando Docker)
+![Instalação com Docker](https://i.imgur.com/D14ap3f.gif)
 
 ### Sem Docker (Desenvolvimento Local)
 
@@ -87,8 +86,8 @@ startups-nodejs/
 
 4. O servidor estará rodando em `http://localhost:3000`
 
-[GIF_INSTALACAO_LOCAL]
-(Adicione aqui um GIF mostrando o processo de instalação e execução local)
+
+![Swagger](https://i.imgur.com/THOuzO2.png)
 
 ## Acessando a Documentação Swagger
 
@@ -96,8 +95,7 @@ startups-nodejs/
 2. Acesse `http://localhost:3000/api-docs`
 3. Você verá a interface do Swagger UI com todas as rotas disponíveis
 
-[GIF_ACESSO_SWAGGER]
-(Adicione aqui um GIF mostrando como acessar e navegar no Swagger UI)
+
 
 ## Usando a API
 
@@ -118,8 +116,7 @@ curl -X POST http://localhost:3000/gerar-ideias \
 -d '{"input":"tecnologia sustentável"}'
 ```
 
-[GIF_USO_API]
-(Adicione aqui um GIF demonstrando o uso da API através do Swagger UI)
+![Requisição via Swagger](https://i.imgur.com/Y5i0B3d.gif))
 
 ## Desenvolvimento
 
@@ -137,14 +134,9 @@ Para fazer alterações no projeto:
 - Verifique se todas as portas necessárias estão livres
 - Se estiver usando Docker, tente remover os contêineres e imagens e reconstruir do zero
 
-[GIF_TROUBLESHOOTING]
-(Adicione aqui um GIF mostrando como resolver problemas comuns)
 
 ## Contato e Suporte
 
 Para questões ou suporte, por favor, abra uma issue no repositório do GitHub.
 
-## Licença
-
-[Adicione informações sobre a licença do projeto]
 
